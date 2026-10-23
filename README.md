@@ -5,4 +5,6 @@ Controll box for testing Inverters
   -  8 LED diodes for presenting of Digital OUT from inverter
   -  2x Potenciometers for Analog In to the converter
 
+https://github.com/Oneil1976/SEW/blob/main/STL/Controll%20Box%20-%20Bottom%20Lid.stl
+https://github.com/Oneil1976/SEW/blob/main/STL/Controll%20Box%20-%20Upper.stl
 
